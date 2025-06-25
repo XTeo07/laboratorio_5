@@ -1,0 +1,34 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+env.bak/
+
+# Archivos de configuración de IDEs y editores
+.vscode/
+.idea/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de logs
+*.log
+
+# Archivos de bases de datos SQLite
+*.sqlite3
+
+# Archivos de configuraciones de Jupyter
+.ipynb_checkpoints/
+
+# Otros archivos temporales
+*.bak
+*.swp
+
+# Archivos de distribución (si usas distutils o setuptools)
+*.egg-info/
+.eggs/
+dist/
+build/
